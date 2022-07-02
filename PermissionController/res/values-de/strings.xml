@@ -497,4 +497,8 @@
     <string name="privdash_label_other" msgid="3710394147423236033">"Sonstiges"</string>
     <string name="privdash_label_none" msgid="5991866260360484858">"Keine"</string>
     <string name="privdash_label_24h" msgid="1512532123865375319">"Letzte\n24 Stunden"</string>
+    <string name="sscopes_manage_external_storage_request">Soll &lt;b>%1$s&lt;/b> Zugriff auf alle Dateien erhalten?</string>
+    <string name="sscopes_manage_media_request">Soll &lt;b>%1$s&lt;/b> Mediadateien verwalten können?</string>
+    <string name="grant_dialog_button_allow_in_settings">Erlauben (Einstellungen)</string>
+    <string name="configure_storage_scopes">Bereichsbezogener Speicher</string>
 </resources>
