@@ -500,5 +500,38 @@
     <string name="sscopes_manage_external_storage_request">Soll &lt;b>%1$s&lt;/b> Zugriff auf alle Dateien erhalten?</string>
     <string name="sscopes_manage_media_request">Soll &lt;b>%1$s&lt;/b> Mediadateien verwalten können?</string>
     <string name="grant_dialog_button_allow_in_settings">Erlauben (Einstellungen)</string>
-    <string name="configure_storage_scopes">Bereichsbezogener Speicher</string>
+    <string name="configure_storage_scopes">Konfiguration Bereichsbezogener Speicher</string>
+    <string name="sscopes">Bereichsbezogener Speicher</string>
+    <string name="sscopes_folders">Verzeichnisse</string>
+    <string name="sscopes_files">Dateien</string>
+    <string name="sscopes_btn_add_folder">Verzeichnis hinzufügen</string>
+    <string name="sscopes_btn_add_file">Datei hinzufügen</string>
+    <string name="sscopes_read_only">Nur lesen</string>
+    <string name="sscopes_menu_item_turn_off">Ausschalten</string>
+    <string name="sscopes_main_storage">Haupt-Speicher</string>
+
+    <string name="sscopes_list_is_full">Scope-Liste ist voll</string>
+    <string name="sscopes_unknown_location">Unbekannter Scope</string>
+
+    <string name="sscopes_enable">Scopes aktivieren</string>
+
+    <string name="sscopes_deny_storage_permission">Die “Dateien und Medien“ Erlaubnis vor Nutzung dieser Funktion entziehen</string>
+
+    <string name="sscopes_disabled_footer">
+"Wenn aktiviert, wird diese App von der “Dateien und Medien“ Berechtigung ausgehen, auch ohne sie zu haben.
+Sie kann nur die Dateien sehen, die sie selbst erstellt hat.
+
+Bei Bedarf kann man festlegen, welche zusätzlichen Dateien und Verzeichnisse sichtbar sind."
+    </string>
+    <string name="sscopes_empty_footer">
+"Diese App kann nur die Dateien sehen, die sie selbst erstellt hat.
+
+Bei Bedarf kann man festlegen, welche zusätzlichen Dateien und Verzeichnisse sichtbar sind."
+    </string>
+
+    <string name="sscopes_shared_uid_warning">
+"Zur Beachtung:
+%1$s
+gehören effektiv zu einer App. Die Scopes sind gemeinsam, ebenso die Berechtigungen, Netzwerk-Zugriffe usw."
+    </string>
 </resources>
