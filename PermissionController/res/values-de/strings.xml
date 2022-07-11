@@ -506,7 +506,6 @@
     <string name="sscopes_files">Dateien</string>
     <string name="sscopes_btn_add_folder">Verzeichnis hinzufügen</string>
     <string name="sscopes_btn_add_file">Datei hinzufügen</string>
-    <string name="sscopes_read_only">Nur lesen</string>
     <string name="sscopes_menu_item_turn_off">Ausschalten</string>
     <string name="sscopes_main_storage">Haupt-Speicher</string>
 
