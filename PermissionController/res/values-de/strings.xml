@@ -514,7 +514,8 @@
 
     <string name="sscopes_enable">Scopes aktivieren</string>
 
-    <string name="sscopes_deny_storage_permission">Die “Dateien und Medien“ Erlaubnis vor Nutzung dieser Funktion entziehen</string>
+    <string name="sscopes_deny_storage_permission">Alle Speicher-Berechtigungen vor Nutzung dieser Funktion entziehen</string>
+    <string name="sscopes_open_settings">Einstellungen öffnen</string>
 
     <string name="sscopes_disabled_footer">
 "Wenn aktiviert, wird diese App von der “Dateien und Medien“ Berechtigung ausgehen, auch ohne sie zu haben.
