@@ -518,7 +518,7 @@
     <string name="sscopes_open_settings">Einstellungen öffnen</string>
 
     <string name="sscopes_disabled_footer">
-"Wenn aktiviert, wird diese App von der “Dateien und Medien“ Berechtigung ausgehen, auch ohne sie zu haben.
+"Wenn aktiviert, wird diese App von einer Speicher-Berechtigung ausgehen, auch ohne sie zu haben.
 Sie kann nur die Dateien sehen, die sie selbst erstellt hat.
 
 Bei Bedarf kann man festlegen, welche zusätzlichen Dateien und Verzeichnisse sichtbar sind."
