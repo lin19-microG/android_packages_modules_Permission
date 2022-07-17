@@ -508,15 +508,11 @@
     <string name="sscopes_btn_add_file">Datei hinzufügen</string>
     <string name="sscopes_menu_item_turn_off">Ausschalten</string>
     <string name="sscopes_main_storage">Haupt-Speicher</string>
-
     <string name="sscopes_list_is_full">Scope-Liste ist voll</string>
     <string name="sscopes_unknown_location">Unbekannter Scope</string>
-
     <string name="sscopes_enable">Scopes aktivieren</string>
-
     <string name="sscopes_deny_storage_permission">Alle Speicher-Berechtigungen vor Nutzung dieser Funktion entziehen</string>
     <string name="sscopes_open_settings">Einstellungen öffnen</string>
-
     <string name="sscopes_disabled_footer">
 "Wenn aktiviert, wird diese App von einer Speicher-Berechtigung ausgehen, auch ohne sie zu haben.
 Sie kann nur die Dateien sehen, die sie selbst erstellt hat.
@@ -528,10 +524,10 @@ Bei Bedarf kann man festlegen, welche zusätzlichen Dateien und Verzeichnisse si
 
 Bei Bedarf kann man festlegen, welche zusätzlichen Dateien und Verzeichnisse sichtbar sind."
     </string>
-
     <string name="sscopes_shared_uid_warning">
 "Zur Beachtung:
 %1$s
 gehören effektiv zu einer App. Die Scopes sind gemeinsam, ebenso die Berechtigungen, Netzwerk-Zugriffe usw."
     </string>
+    <string name="sscopes_config_link_disabled">Um die Scoped Storage Funktionalität zu nutzen, muss dieser App die Speicherberechtigung entzogen werden.</string>
 </resources>
