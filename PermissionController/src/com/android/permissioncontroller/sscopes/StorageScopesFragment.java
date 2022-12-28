@@ -20,7 +20,6 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Application;
 import android.app.StorageScope;
-import android.app.compat.gms.GmsCompat;
 import android.content.ClipData;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -262,8 +261,7 @@ public final class StorageScopesFragment extends SettingsWithLargeHeader {
         boolean killUid;
         if (enabled) {
             newPsFlags = curFlags | GosPackageState.FLAG_STORAGE_SCOPES_ENABLED;
-            // GMS often needs a restart to properly handle permission grants
-            killUid = GmsCompat.isGmsApp(pkgName, Process.myUserHandle().getIdentifier());
+            killUid = false;
         } else {
             newPsFlags = curFlags & (~GosPackageState.FLAG_STORAGE_SCOPES_ENABLED);
             killUid = true;
