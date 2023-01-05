@@ -497,4 +497,37 @@
     <string name="privdash_label_other" msgid="3710394147423236033">"Autre"</string>
     <string name="privdash_label_none" msgid="5991866260360484858">"Aucune"</string>
     <string name="privdash_label_24h" msgid="1512532123865375319">"Dernières\n24 heures"</string>
+    <string name="sscopes_manage_external_storage_request">Autoriser la gestion de tous les fichiers pour &lt;b>%1$s&lt;/b> ?</string>
+    <string name="sscopes_manage_media_request">Autoriser la gestion de media pour &lt;b>%1$s&lt;/b> ?</string>
+    <string name="grant_dialog_button_allow_in_settings">Autoriser (dans Options)</string>
+    <string name="configure_storage_scopes">Configurer Stockage délimité</string>
+    <string name="sscopes">Stockage délimité</string>
+    <string name="sscopes_folders">Repertoires</string>
+    <string name="sscopes_files">Fichiers</string>
+    <string name="sscopes_btn_add_folder">Ajout répertoire</string>
+    <string name="sscopes_btn_add_file">Ajout fichier</string>
+    <string name="sscopes_menu_item_turn_off">Désactiver</string>
+    <string name="sscopes_main_storage">Stockage principal</string>
+    <string name="sscopes_list_is_full">Liste complète</string>
+    <string name="sscopes_unknown_location">Destination inconnue</string>
+    <string name="sscopes_enable">Activer Stockage délimité</string>
+    <string name="sscopes_deny_storage_permissions">Retirer tous les autorisations accordées avant d\'utiliser le stockage défini.</string>
+    <string name="sscopes_open_settings">Ouvrir les réglages</string>
+    <string name="sscopes_disabled_footer">
+"Si activé, cette app présumera, qu'elle aura un accès de stockage complète, même si ce n'est pas le cas.
+Elle ne pourra voir que les fichiers créés par elle.
+
+Éventuellement, il est possible d\'ajouter des fichiers et répertoires additionnels pour la laisser y accéder."
+    </string>
+    <string name="sscopes_empty_footer">
+"Cette app ne voit que les fichiers, qu'elle a créés elle-même.
+
+Éventuellement, il est possible d\'ajouter des fichiers et répertoires additionnels pour la laisser y accéder."
+    </string>
+    <string name="sscopes_shared_uid_warning">
+"Notez que
+%1$s
+font effectivement partie de la même app. Les stockages délimités sont partagés entre eux, il en va de même pour les autorisations accordées, statistiques d\'utilisation du réseau etc."
+    </string>
+    <string name="sscopes_config_link_disabled">Pour utiliser les stockages délimité, il faut interdire la permission de stockage pour cette app.</string>
 </resources>
